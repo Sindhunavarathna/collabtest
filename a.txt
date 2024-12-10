@@ -5,8 +5,8 @@ int main()
 int a=10,b=20;
 a=a+b;
 b=a-b;
-a=b-a;
-pri
+a=a-b;
+printf("After swapping:"
 =======
 <<<<<<< HEAD
 #include<stdio.h>
