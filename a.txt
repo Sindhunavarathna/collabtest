@@ -29,3 +29,19 @@ return 0;
 >>>>>>> v3
 }
 >>>>>>> 95e8ba4e2a4e7dbe3487c310854adc4aa24eb6d1
+
+
+
+//uday message//
+
+nclude<stdio.h>
+int main()
+{
+int a=10,b=20;
+a=a+b;
+b=a-b;
+a=a-b;
+printf("After swapping:"
+
+
+
